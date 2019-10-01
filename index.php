@@ -26,10 +26,12 @@
 				<nav class="navigation">
 					<ul class="nav nav-tabs" role="tablist">
 						<li>
+							
 							<a href="#home" aria-controls="home" role="tab" data-toggle="tab" class="active show">
 								<span>Home</span>
 								<i class="fa fa-home"></i>
 							</a>
+							
 						</li>
 						<li>
 							<a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">
